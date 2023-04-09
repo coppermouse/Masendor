@@ -2,6 +2,8 @@ import os.path
 import sys
 import traceback
 
+#test
+
 from gamescript import game
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
